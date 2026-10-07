@@ -256,3 +256,12 @@ No system-changing action was required.
 ## Next capability
 
 The next diagnostics lab should formalize the **message-to-documentation workflow** using release-compatible IBM message documentation and a structured evidence template for message meaning, system action, operator response, and observed validation.
+
+
+---
+### Continue learning
+
+**Previous:** Course introduction  
+**Course:** [Course home](../../README.md)  
+**Next:** [02-ibm-mq-csq7-bsds-active-log-recovery](../02-ibm-mq-csq7-bsds-active-log-recovery/)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)

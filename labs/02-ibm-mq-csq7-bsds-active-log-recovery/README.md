@@ -108,3 +108,12 @@ The stopped data set remains a forensic artifact. A later phase can address its 
 The BSDS is recovery metadata, not merely a catalog of data-set names. Utility return codes alone are insufficient: RBA continuity, checkpoint boundaries, physical log readability, archive registration, dual-copy consistency and actual restart behavior must agree.
 
 The recovery point was selected from evidence rather than from the failing RBA. Vendor samples were also treated as semantic references, not sizing templates: `CSQ4LREC` supplied the correct NEWLOG method, while its sample allocation size was measured and rejected for this environment.
+
+
+---
+### Continue learning
+
+**Previous:** [01-zos-messages-syslog-fundamentals](../01-zos-messages-syslog-fundamentals/)  
+**Course:** [Course home](../../README.md)  
+**Next:** [Choose the next Academy course](https://github.com/P-dot/P-dot/blob/main/docs/COURSES.md)  
+**Academy:** [z/OS Engineering Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Curriculum](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md)
