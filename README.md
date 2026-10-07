@@ -305,3 +305,14 @@ IBM z/OS Engineering Portfolio
 ```
 
 **Back to portfolio:** [P-dot IBM z/OS Mainframe Engineering Portfolio](https://github.com/P-dot/P-dot)
+
+
+---
+
+## z/OS Engineering Academy
+
+**Academy role:** Reliability School — symptom, evidence, diagnosis and controlled recovery.
+
+[Start the Academy](https://github.com/P-dot/P-dot/blob/main/docs/ACADEMY.md) · [Course Catalog](https://github.com/P-dot/P-dot/blob/main/docs/COURSES.md) · [Curriculum Graph](https://github.com/P-dot/P-dot/blob/main/docs/CURRICULUM.md) · [Cross-Domain Relationships](https://github.com/P-dot/P-dot/blob/main/docs/RELATIONSHIPS.md)
+
+> Learn the concept → execute the lab → interpret the evidence → understand the subsystem boundary → continue to the next connected course.
