@@ -112,6 +112,7 @@ Configuration presence, documentation knowledge and roadmap intent are not prese
 | Lab | Capability | Evidence state |
 |---|---|---|
 | [01 · z/OS Messages and SYSLOG Fundamentals](labs/01-zos-messages-syslog-fundamentals/) | SYSLOG navigation, message families, timeline correlation, execution context, diagnostic reasoning and controlled-event validation | **VALIDATED LOCALLY / PASS** |
+| [02 · IBM MQ CSQ7 BSDS and Active Log Recovery](labs/02-ibm-mq-csq7-bsds-active-log-recovery/) | MQ restart failure isolation, BSDS/RBA correlation, conditional recovery, archive/offload validation, active-log sanitation and clean restart proof | **VALIDATED LOCALLY / PASS** |
 
 ### Lab 01 evidence chain
 
